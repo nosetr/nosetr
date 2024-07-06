@@ -19,8 +19,7 @@
 </div>
 
 ### About me
-- 🌱 Currently, I am actively **seeking new and attractive job** opportunities.
-- 🔭 I’m currently working on [aljonabelaja.de](http://www.aljonabelaja.de/)
+- 🔭 I’m currently working by [KVBB](https://www.kvbb.de/)
 - 📫 Reach me by email: osetrov.n@gmail.com
 - 🌍 I speak English, German, Russian
 
