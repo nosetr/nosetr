@@ -19,7 +19,6 @@
 </div>
 
 ### About me
-- 🔭 I’m currently working by [KVBB](https://www.kvbb.de/)
 - 📫 Reach me by email: osetrov.n@gmail.com
 - 🌍 I speak English, German, Russian
 
